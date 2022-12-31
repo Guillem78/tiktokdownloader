@@ -12,3 +12,6 @@ for line in Lines:
 
 print (" Paco")
 print ("Data is: ", mydata )
+for line in Lines:
+    print (mydata{} )
+
